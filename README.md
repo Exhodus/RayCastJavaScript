@@ -1,4 +1,4 @@
-https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge&logo=javascript# 🌟 Raycasting Interactive Demo
+🌟 Raycasting Interactive Demo
 
 Una implementación interactiva de **raycasting en 2D** con detección de colisiones en tiempo real, construida con **JavaScript vanilla** y **Canvas API**.
 
